@@ -8,4 +8,3 @@ function main() {
     y = 100;
     console.log(y);
 }
-
